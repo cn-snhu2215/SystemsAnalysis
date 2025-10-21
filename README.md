@@ -1,1 +1,3 @@
 # SystemsAnalysis
+
+DriverPass was a client who wanted to design a new system to give student drivers access to materials that will help them pass their driver tests. I feel like I did well with determining requirements and utilizing many different model types to lay out the design of the system. Thining about user needs is important from the very beginning of the design process, since the whole point of the system is to is to provide a product or service that users are willing to pay for. Thinking about these requirements and implementing them in the design from the start can reduce a lot of headache later on in development.
